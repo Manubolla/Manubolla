@@ -3,7 +3,7 @@
 I've recently finished an intensive Full Stack Web Developer bootcamp
 
 - ✔️   I'm ready to begin my professional path
-- 🔍   I'm looking for opportunities to colaborate !
+- 🔍   I'm looking for opportunities to collaborate !
 
 ##### More information on : https://www.linkedin.com/in/manuel-bolla-agrelo/
 ##### My porftolio: https://manubolla.github.io/portfolio/
